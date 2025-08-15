@@ -1,2 +1,2 @@
 main: main.c
-	cc main.c -o srvbackup
+	cc main.c -o build/srvbackup
